@@ -1,27 +1,27 @@
 personal website for
 # Felix Lu
-Industrial Engineering | Data Analytics 
+Industrial Engineering and Data Analytics 
 
 Welcome to my project portfolio repository. 
 
 ---
 **Statistical Analysis on Rent Prices in Germany**  
 *Tools Used:* R, R Studio
-📄 [Statistical Analysis on Rent Prices in Germany](./Project1.pdf)
+📄 [Statistical Analysis on Rent Prices in Germany](FinalProjectFelixLu.pdf)
 
 ---
 **Airline Revenue Optimization (MDP Modeling Project):**  
 *Tools Used:* Python
-📄 [Airline Revenue Optimization (MDP Modeling Project)](./Project2.pdf)
+📄 [Airline Revenue Optimization (MDP Modeling Project)](IE%20370%20Project%20Report.pdf)
 
 ---
 **Paper Airplane Statistical Process Control**  
-📄 [Paper Airplane Statistical Process Control](./Project3.pdf)
+📄 [Paper Airplane Statistical Process Control](PaperAirplaneProject)
 
 ---
 **Short Description:**  
 *Tools Used:* Autodesk CAD, Fusion 360, 
-📄 [Remote Dump Truck Reverse Engineering Project](SE101 Final Report.pdf)
+📄 [Remote Dump Truck Reverse Engineering Project](SE10%20Final%20Report.pdf)
 
 ---
 
