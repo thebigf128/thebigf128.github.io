@@ -4,24 +4,29 @@ Industrial Engineering and Data Analytics
 
 Welcome to my project portfolio repository. 
 
+**UPS Process Mapping and Staffing Model Calculator**
+Accepted into the 9th IEOM Conference in Barcelona
+
+[UPS Final Report](./Group%2021%20UPS%20Final%20Report%20Edited.pdf)
+
 ---
 **Statistical Analysis on Rent Prices in Germany**  
 *Tools Used:* R, R Studio
-📄 [Statistical Analysis on Rent Prices in Germany](./FinalProjectFelixLu.pdf)
+[Statistical Analysis on Rent Prices in Germany](./FinalProjectFelixLu.pdf)
 
 ---
 **Airline Revenue Optimization (MDP Modeling Project):**  
 *Tools Used:* Python
-📄 [Airline Revenue Optimization (MDP Modeling Project)](./IE%20370%20Project%20Report.pdf)
+[Airline Revenue Optimization (MDP Modeling Project)](./IE%20370%20Project%20Report.pdf)
 
 ---
 **Paper Airplane Statistical Process Control**  
-📄 [Paper Airplane Statistical Process Control](./PaperAirplaneProject.pdf)
+[Paper Airplane Statistical Process Control](./PaperAirplaneProject.pdf)
 
 ---
 **Short Description:**  
 *Tools Used:* Autodesk CAD, Fusion 360, 
-📄 [Remote Dump Truck Reverse Engineering Project](./DumpTruckEngineeringProject.pdf)
+[Remote Dump Truck Reverse Engineering Project](./DumpTruckEngineeringProject.pdf)
 
 ---
 
